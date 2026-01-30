@@ -47,7 +47,7 @@ The deck revolves around the **"Keyblade Wielder"** archetype. It focuses on mul
 ## 🚩 2025 Update Log
 * **Server Compatibility:** Updated card list for compatibility with the 2025 test server.
 * **Rebalance:** Fixed known issues and reworked some designs to align with modern 2024/2025 standards.
-* **Adjustment:** Total card count adjusted to **75** (including WIP cards). Version name changed to `srv_test`.
+* **Adjustment:** Total card count adjusted to **75** (including WIP cards). Version name changed to `KH_clear`.
 
 ---
 
